@@ -22,7 +22,9 @@ Here are some resources I found to be helpful for me:
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn/contribute)
 - [allenai](https://github.com/allenai/allennlp/contribute)
 
+## Current Work:
 
+- Pandas documentation correction in the `DataFrame.rename` method [link](https://github.com/pandas-dev/pandas/issues/47030)
 
 
 
