@@ -24,7 +24,9 @@ Here are some resources I found to be helpful for me:
 
 ## Current Work:
 
-- Pandas documentation correction in the `DataFrame.rename` method [link](https://github.com/pandas-dev/pandas/issues/47030)
+- Pandas open source contribution. 
+- documentation correction in the `DataFrame.rename` method [link](https://github.com/pandas-dev/pandas/issues/47030)
+  - The process of solving an issue is much more complicated then i had anticipated, 
 
 
 
