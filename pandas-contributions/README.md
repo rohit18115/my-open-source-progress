@@ -1,32 +1,12 @@
-# my-open-source-progress
+# Pandas contribution progress
 
-This repository will act as a tracking tool for my open source contributions.
+## As of May 26th 2022:
 
-I will try to keep it up-to-date in the following aspects:
-- Resources that i find that are good for beginner contributers.
-- The list of repositories that i find interesting and i want to work on in the future.
-- The repositories i'am currently working on.
+- Thought of starting with simple Documentation correction in the `DataFrame.rename` method [link](https://github.com/pandas-dev/pandas/issues/47030)
+- The process of solving an issue is much more complicated then i had anticipated, so i will be reading the contribution guide before jumping into the issues. [link](https://pandas.pydata.org/docs/dev/development/contributing.html)
+- Important links for making proper bug reports [link1](https://stackoverflow.com/help/minimal-reproducible-example) [link2](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports).
+- Good blog on properly debugging your code [link](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 
-## Resources:
-
-Here are some resources I found to be helpful for me:
-
-- [free code camp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) Read this if you do not know anything about open source contributions.
-- [First contribution](https://github.com/firstcontributions/first-contributions) is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.
-- [firstcontributions.github.io](https://firstcontributions.github.io/#social-share) contains a list of popular open source projects which can be filtered out based on the programming language you are comfortable with.
-- Rule of thumb for first time contributors is to pick out any project which interests you and find the 'easy fix' or 'good-first' issues to start with.
-
-## List of repositories that I think might interst me:
-
-- [Pandas](https://github.com/pandas-dev/pandas/contribute)
-- [Scikit-learn](https://github.com/scikit-learn/scikit-learn/contribute)
-- [allenai](https://github.com/allenai/allennlp/contribute)
-
-## Current Work:
-
-- Pandas open source contribution. 
-- documentation correction in the `DataFrame.rename` method [link](https://github.com/pandas-dev/pandas/issues/47030)
-  - The process of solving an issue is much more complicated then i had anticipated, 
 
 
 
