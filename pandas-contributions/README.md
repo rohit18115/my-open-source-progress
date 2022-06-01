@@ -21,7 +21,12 @@
 
 - Still no progress
 
+## As of Jone 1st 2022:
 
+- Learned about git commands useful for working with pandas.
+  - [``remote add upstream``](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html#:~:text=git%20remote%20add%20upstream%20https%3A//github.com/pandas%2Ddev/pandas.git)
+  - Explaination of the above command [link](https://www.neonscience.org/resources/learning-hub/tutorials/git-setup-remote) [link](https://stackoverflow.com/questions/8948803/what-does-git-remote-add-upstream-help-achieve)
+  - [rebase and merge](https://www.javatpoint.com/git-rebase#:~:text=Rebasing%20is%20a%20process%20to,a%20linear%20process%20of%20merging.)
 
 
 
